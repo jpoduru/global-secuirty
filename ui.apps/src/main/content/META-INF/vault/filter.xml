@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/globalsecurity/clientlibs"/>
+    <filter root="/apps/globalsecurity/components"/>
+    <filter root="/apps/globalsecurity/i18n"/>
+</workspaceFilter>

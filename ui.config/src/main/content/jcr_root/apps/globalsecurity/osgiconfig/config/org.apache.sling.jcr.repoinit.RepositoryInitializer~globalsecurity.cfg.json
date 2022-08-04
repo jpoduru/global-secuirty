@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/globalsecurity",
+        "create path (nt:unstructured) /content/dam/globalsecurity/jcr:content",
+        "set properties on /content/dam/globalsecurity/jcr:content\n  set cq:conf{String} to /conf/globalsecurity\n  set jcr:title{String} to \"Global Security\"\nend"
+    ]
+}
